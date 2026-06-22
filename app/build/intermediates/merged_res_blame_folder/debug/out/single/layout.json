@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-mergeDebugResources-3:\\layout\\chat_fragment.xml",
+        "source": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-main-6:\\layout\\chat_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-mergeDebugResources-3:\\layout\\chat_item_user.xml",
+        "source": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-main-6:\\layout\\chat_item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-mergeDebugResources-3:\\layout\\chat_item_bot.xml",
+        "source": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-main-6:\\layout\\chat_item_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-mergeDebugResources-3:\\layout\\widget_state_layout.xml",
+        "source": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-main-6:\\layout\\widget_state_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-mergeDebugResources-3:\\layout\\chat_item_typing.xml",
+        "source": "C:\\Users\\Umer\\.gradle\\daemon\\8.4\\com.app.sehatcare.app-main-6:\\layout\\chat_item_typing.xml"
+    },
+    {
+        "merged": "com.app.sehatcare.app-mergeDebugResources-3:/layout/chat_fragment.xml",
+        "source": "com.app.sehatcare.app-main-6:/layout/chat_fragment.xml"
+    }
+]
